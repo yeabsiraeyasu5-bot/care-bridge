@@ -1,0 +1,6 @@
+{
+  "name": "MediRoute Ethiopia — Emergency Logistics & AI Triage",
+  "description": "Emergency blood, oxygen logistics, two-way SMS stock reservation, and clinical AI triage command platform serving East Shewa and Adama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
